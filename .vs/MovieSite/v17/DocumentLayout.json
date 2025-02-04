@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6CE3B5-C73C-4E6E-BFC1-2E6B2F6906A3}|Core\\MovieSite.Domain\\MovieSite.Domain.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\core\\moviesite.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6CE3B5-C73C-4E6E-BFC1-2E6B2F6906A3}|Core\\MovieSite.Domain\\MovieSite.Domain.csproj|solutionrelative:core\\moviesite.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6CE3B5-C73C-4E6E-BFC1-2E6B2F6906A3}|Core\\MovieSite.Domain\\MovieSite.Domain.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\core\\moviesite.domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6CE3B5-C73C-4E6E-BFC1-2E6B2F6906A3}|Core\\MovieSite.Domain\\MovieSite.Domain.csproj|solutionrelative:core\\moviesite.domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6CE3B5-C73C-4E6E-BFC1-2E6B2F6906A3}|Core\\MovieSite.Domain\\MovieSite.Domain.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\core\\moviesite.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6CE3B5-C73C-4E6E-BFC1-2E6B2F6906A3}|Core\\MovieSite.Domain\\MovieSite.Domain.csproj|solutionrelative:core\\moviesite.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Domain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "Core\\MovieSite.Domain\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Domain\\Entities\\Review.cs",
+              "RelativeToolTip": "Core\\MovieSite.Domain\\Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T23:06:31.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Domain\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "Core\\MovieSite.Domain\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Domain\\Entities\\Movie.cs",
+              "RelativeToolTip": "Core\\MovieSite.Domain\\Entities\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T23:04:33.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Core\\MovieSite.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Core\\MovieSite.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T23:03:56.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

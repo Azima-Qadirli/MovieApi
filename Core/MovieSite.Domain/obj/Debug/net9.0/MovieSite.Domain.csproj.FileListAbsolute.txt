@@ -1,0 +1,12 @@
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Core\MovieSite.Domain\bin\Debug\net9.0\MovieSite.Domain.deps.json
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Core\MovieSite.Domain\bin\Debug\net9.0\MovieSite.Domain.dll
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Core\MovieSite.Domain\bin\Debug\net9.0\MovieSite.Domain.pdb
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Core\MovieSite.Domain\obj\Debug\net9.0\MovieSite.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Core\MovieSite.Domain\obj\Debug\net9.0\MovieSite.Domain.AssemblyInfoInputs.cache
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Core\MovieSite.Domain\obj\Debug\net9.0\MovieSite.Domain.AssemblyInfo.cs
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Core\MovieSite.Domain\obj\Debug\net9.0\MovieSite.Domain.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Core\MovieSite.Domain\obj\Debug\net9.0\MovieSite.Domain.sourcelink.json
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Core\MovieSite.Domain\obj\Debug\net9.0\MovieSite.Domain.dll
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Core\MovieSite.Domain\obj\Debug\net9.0\refint\MovieSite.Domain.dll
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Core\MovieSite.Domain\obj\Debug\net9.0\MovieSite.Domain.pdb
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Core\MovieSite.Domain\obj\Debug\net9.0\ref\MovieSite.Domain.dll

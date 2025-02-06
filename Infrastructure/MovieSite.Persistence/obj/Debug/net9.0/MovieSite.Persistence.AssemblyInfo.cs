@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovieSite.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4aba5937bdef056fc1324bb5b91873dc279f1f39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b35e5fc3fe48bd75c02e73ba3119835ca988d670")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovieSite.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovieSite.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

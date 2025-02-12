@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Features\CQRSDesignPattern\Handlers\CategoryHandlers\" />
-    <Folder Include="Features\CQRSDesignPattern\Handlers\MovieHandlers\" />
+    <ProjectReference Include="..\..\Infrastructure\MovieSite.Persistence\MovieSite.Persistence.csproj" />
+    <ProjectReference Include="..\MovieSite.Domain\MovieSite.Domain.csproj" />
   </ItemGroup>
 
 </Project>

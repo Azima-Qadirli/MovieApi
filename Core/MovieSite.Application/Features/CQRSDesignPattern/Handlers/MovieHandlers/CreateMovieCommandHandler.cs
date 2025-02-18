@@ -13,7 +13,7 @@ namespace MovieSite.Application.Features.CQRSDesignPattern.Handlers.MovieHandler
             _dbContext = dbContext;
         }
 
-        public async void Handle(CreateMovieCommand command)
+        public async Task Handle(CreateMovieCommand command)
         {
             _dbContext.Movies.Add(new Movie
             {

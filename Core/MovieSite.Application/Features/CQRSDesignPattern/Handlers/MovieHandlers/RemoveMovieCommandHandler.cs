@@ -12,7 +12,7 @@ namespace MovieSite.Application.Features.CQRSDesignPattern.Handlers.MovieHandler
             _dbContext = dbContext;
         }
 
-        public async void Handle(RemoveMovieCommand command)
+        public async Task Handle(RemoveMovieCommand command)
         {
             var value = await _dbContext.Movies.FindAsync(command.MovieId);
             _dbContext.Movies.Remove(value);

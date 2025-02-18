@@ -1625,6 +1625,20 @@
           }
         }
       },
+      "MovieSite.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "MovieSite.Domain": "1.0.0",
+          "MovieSite.Persistence": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MovieSite.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieSite.Application.dll": {}
+        }
+      },
       "MovieSite.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -4759,6 +4773,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "MovieSite.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Core/MovieSite.Application/MovieSite.Application.csproj",
+      "msbuildProject": "../../Core/MovieSite.Application/MovieSite.Application.csproj"
+    },
     "MovieSite.Domain/1.0.0": {
       "type": "project",
       "path": "../../Core/MovieSite.Domain/MovieSite.Domain.csproj",
@@ -4774,6 +4793,7 @@
     "net9.0": [
       "Microsoft.AspNetCore.OpenApi >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.1",
+      "MovieSite.Application >= 1.0.0",
       "MovieSite.Persistence >= 1.0.0"
     ]
   },
@@ -4809,6 +4829,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\MovieSite.Application.csproj": {
+              "projectPath": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\MovieSite.Application.csproj"
+            },
             "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Infrastructure\\MovieSite.Persistence\\MovieSite.Persistence.csproj": {
               "projectPath": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Infrastructure\\MovieSite.Persistence\\MovieSite.Persistence.csproj"
             }

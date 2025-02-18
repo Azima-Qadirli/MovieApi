@@ -12,7 +12,7 @@ namespace MovieSite.Application.Features.CQRSDesignPattern.Handlers.MovieHandler
             _dbContext = dbContext;
         }
 
-        public async void Handle(UpdateMovieCommand command)
+        public async Task Handle(UpdateMovieCommand command)
         {
             var value = await _dbContext.Movies.FindAsync(command.MovieId);
             value.CoverImageUrl = command.CoverImageUrl;

@@ -169,3 +169,5 @@ C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Presentation\MovieSite.WebApi\
 C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Presentation\MovieSite.WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Presentation\MovieSite.WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Presentation\MovieSite.WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Presentation\MovieSite.WebApi\bin\Debug\net9.0\MovieSite.Application.dll
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Presentation\MovieSite.WebApi\bin\Debug\net9.0\MovieSite.Application.pdb

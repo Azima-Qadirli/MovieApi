@@ -12,7 +12,7 @@ namespace MovieSite.Application.Features.CQRSDesignPattern.Handlers.CategoryHand
             _dbContext = dbContext;
         }
 
-        public async void Handle(UpdateCategoryCommand command)
+        public async Task Handle(UpdateCategoryCommand command)
         {
             var value = await _dbContext.Categories.FindAsync(command.CategoryId);
             value.CategoryName = command.CategoryName;

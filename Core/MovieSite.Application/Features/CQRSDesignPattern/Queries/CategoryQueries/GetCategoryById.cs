@@ -2,6 +2,11 @@
 {
     public class GetCategoryById
     {
+        public GetCategoryById(int categoryId)
+        {
+            CategoryId = categoryId;
+        }
+
         public int CategoryId { get; set; }
     }
 }

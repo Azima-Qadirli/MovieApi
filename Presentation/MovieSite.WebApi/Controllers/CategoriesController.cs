@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MovieSite.Application.Features.CQRSDesignPattern.Commands.CategoryCommands;
 using MovieSite.Application.Features.CQRSDesignPattern.Handlers.CategoryHandlers;
+using MovieSite.Application.Features.CQRSDesignPattern.Queries.CategoryQueries;
 
 namespace MovieSite.WebApi.Controllers
 {
@@ -34,6 +35,27 @@ namespace MovieSite.WebApi.Controllers
         public async Task<IActionResult> CategoryList()
         {
             var value = await _getCategoryQueryHandler.Handle();
+            return Ok(value);
+        }
+
+        [HttpDelete]
+        public async Task<IActionResult> DeleteCategory(int id)
+        {
+            await _removeCategoryCommandHandler.Handle(new RemoveCategoryCommand(id));
+            return Ok("Delete is successful!");
+        }
+
+        [HttpPut]
+        public async Task<IActionResult> UpdateCategory(UpdateCategoryCommand command)
+        {
+            await _updateCategoryCommandHandler.Handle(command);
+            return Ok("Update is successful!");
+        }
+
+        [HttpGet("GetCategory")]
+        public async Task<IActionResult> GetCategoryById(int id)
+        {
+            var value = await _getCategoryByIdQueryHandler.Handle(new GetCategoryById(id));
             return Ok(value);
         }
     }

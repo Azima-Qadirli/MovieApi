@@ -58,5 +58,7 @@ namespace MovieSite.WebApi.Controllers
             var value = await _getCategoryByIdQueryHandler.Handle(new GetCategoryById(id));
             return Ok(value);
         }
+
+
     }
 }

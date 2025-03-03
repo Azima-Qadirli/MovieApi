@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\presentation\\moviesite.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|solutionrelative:presentation\\moviesite.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\presentation\\moviesite.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|solutionrelative:presentation\\moviesite.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\core\\moviesite.application\\features\\cqrsdesignpattern\\queries\\categoryqueries\\getcategorybyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|solutionrelative:core\\moviesite.application\\features\\cqrsdesignpattern\\queries\\categoryqueries\\getcategorybyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\core\\moviesite.application\\features\\cqrsdesignpattern\\handlers\\categoryhandlers\\removecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|solutionrelative:core\\moviesite.application\\features\\cqrsdesignpattern\\handlers\\categoryhandlers\\removecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\core\\moviesite.application\\features\\cqrsdesignpattern\\commands\\categorycommands\\removecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|solutionrelative:core\\moviesite.application\\features\\cqrsdesignpattern\\commands\\categorycommands\\removecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\MovieSite.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Program.cs",
+              "RelativeToolTip": "Presentation\\MovieSite.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T18:00:55.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetCategoryById.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Queries\\CategoryQueries\\GetCategoryById.cs",
+              "RelativeDocumentMoniker": "Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Queries\\CategoryQueries\\GetCategoryById.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Queries\\CategoryQueries\\GetCategoryById.cs",
+              "RelativeToolTip": "Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Queries\\CategoryQueries\\GetCategoryById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T18:00:26.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RemoveCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\RemoveCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\RemoveCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\RemoveCategoryCommandHandler.cs",
+              "RelativeToolTip": "Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\RemoveCategoryCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:47:43.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RemoveCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Commands\\CategoryCommands\\RemoveCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Commands\\CategoryCommands\\RemoveCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Commands\\CategoryCommands\\RemoveCategoryCommand.cs",
+              "RelativeToolTip": "Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Commands\\CategoryCommands\\RemoveCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:46:03.412Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -37,33 +101,16 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Presentation\\MovieSite.WebApi\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Presentation\\MovieSite.WebApi\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T18:22:51.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RemoveCategoryCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\RemoveCategoryCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\RemoveCategoryCommandHandler.cs",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\RemoveCategoryCommandHandler.cs",
-              "RelativeToolTip": "Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\RemoveCategoryCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T18:22:43.139Z",
+              "WhenOpened": "2025-03-03T17:44:10.373Z",
               "EditorCaption": ""
             }
           ]

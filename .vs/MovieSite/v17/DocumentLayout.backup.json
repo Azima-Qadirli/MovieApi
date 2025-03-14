@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\core\\moviesite.application\\features\\cqrsdesignpattern\\handlers\\moviehandlers\\getmoviebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|solutionrelative:core\\moviesite.application\\features\\cqrsdesignpattern\\handlers\\moviehandlers\\getmoviebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\core\\moviesite.application\\features\\mediatordesignpattern\\queries\\castquery\\getcastbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|solutionrelative:core\\moviesite.application\\features\\mediatordesignpattern\\queries\\castquery\\getcastbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\presentation\\moviesite.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|solutionrelative:presentation\\moviesite.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\core\\moviesite.application\\features\\mediatordesignpattern\\results\\castresults\\getcastbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|solutionrelative:core\\moviesite.application\\features\\mediatordesignpattern\\results\\castresults\\getcastbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\presentation\\moviesite.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|solutionrelative:presentation\\moviesite.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\core\\moviesite.application\\features\\mediatordesignpattern\\queries\\castquery\\getcastquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|solutionrelative:core\\moviesite.application\\features\\mediatordesignpattern\\queries\\castquery\\getcastquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\core\\moviesite.application\\features\\mediatordesignpattern\\results\\castresults\\getcastqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|solutionrelative:core\\moviesite.application\\features\\mediatordesignpattern\\results\\castresults\\getcastqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetMovieByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\GetMovieByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\GetMovieByIdQueryHandler.cs",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\GetMovieByIdQueryHandler.cs",
-              "RelativeToolTip": "Core\\MovieSite.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\GetMovieByIdQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:23:34.375Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -55,27 +46,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetCastByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Queries\\CastQuery\\GetCastByIdQuery.cs",
+              "RelativeDocumentMoniker": "Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Queries\\CastQuery\\GetCastByIdQuery.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Queries\\CastQuery\\GetCastByIdQuery.cs",
+              "RelativeToolTip": "Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Queries\\CastQuery\\GetCastByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:23:17.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Presentation\\MovieSite.WebApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Presentation\\MovieSite.WebApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-04T17:56:34.095Z"
+              "Title": "GetCastQuery.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Queries\\CastQuery\\GetCastQuery.cs",
+              "RelativeDocumentMoniker": "Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Queries\\CastQuery\\GetCastQuery.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Queries\\CastQuery\\GetCastQuery.cs",
+              "RelativeToolTip": "Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Queries\\CastQuery\\GetCastQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:20:46.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\MovieSite.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Program.cs",
-              "RelativeToolTip": "Presentation\\MovieSite.WebApi\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACsAAABDAAAAAAAAAA==",
+              "Title": "GetCastByIdQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Results\\CastResults\\GetCastByIdQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Results\\CastResults\\GetCastByIdQueryResult.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Results\\CastResults\\GetCastByIdQueryResult.cs",
+              "RelativeToolTip": "Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Results\\CastResults\\GetCastByIdQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T17:54:21.736Z",
+              "WhenOpened": "2025-03-14T19:19:00.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetCastQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Results\\CastResults\\GetCastQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Results\\CastResults\\GetCastQueryResult.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Results\\CastResults\\GetCastQueryResult.cs",
+              "RelativeToolTip": "Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Results\\CastResults\\GetCastQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:18:12.926Z",
               "EditorCaption": ""
             }
           ]

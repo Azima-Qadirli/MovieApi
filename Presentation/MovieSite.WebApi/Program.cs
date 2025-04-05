@@ -2,6 +2,7 @@ using Microsoft.OpenApi.Models;
 using MovieSite.Application.Features.CQRSDesignPattern.Handlers.CategoryHandlers;
 using MovieSite.Application.Features.CQRSDesignPattern.Handlers.MovieHandlers;
 using MovieSite.Persistence.Context;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,7 +22,7 @@ builder.Services.AddScoped<GetMovieQueryHandler>();
 builder.Services.AddScoped<RemoveMovieCommandHandler>();
 builder.Services.AddScoped<UpdateMovieCommandHandler>();
 
-
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
 
 
 

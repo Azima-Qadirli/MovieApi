@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovieSite.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0edbd0f908f664124478c0b31cd307b784ec0aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a02753686094b0fd0667ffdcb85b20a81e10f84")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovieSite.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovieSite.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

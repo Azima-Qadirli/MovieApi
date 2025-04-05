@@ -174,3 +174,5 @@ C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Presentation\MovieSite.WebApi\
 C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Presentation\MovieSite.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Presentation\MovieSite.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Presentation\MovieSite.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Presentation\MovieSite.WebApi\bin\Debug\net9.0\MediatR.dll
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Presentation\MovieSite.WebApi\bin\Debug\net9.0\MediatR.Contracts.dll

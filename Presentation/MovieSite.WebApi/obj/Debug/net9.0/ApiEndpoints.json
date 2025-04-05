@@ -1,5 +1,79 @@
 [
   {
+    "ContainingType": "MovieSite.WebApi.Controllers.CastsController",
+    "Method": "CastList",
+    "RelativePath": "api/Casts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSite.WebApi.Controllers.CastsController",
+    "Method": "CreateCast",
+    "RelativePath": "api/Casts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieSite.Application.Features.MediatorDesignPattern.Commands.CastCommand.CreateCastCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSite.WebApi.Controllers.CastsController",
+    "Method": "DeleteCast",
+    "RelativePath": "api/Casts",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSite.WebApi.Controllers.CastsController",
+    "Method": "UpdateCast",
+    "RelativePath": "api/Casts",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieSite.Application.Features.MediatorDesignPattern.Commands.CastCommand.UpdateCastCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSite.WebApi.Controllers.CastsController",
+    "Method": "GetCastById",
+    "RelativePath": "api/Casts/GetCastById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MovieSite.WebApi.Controllers.CategoriesController",
     "Method": "CreateCategory",
     "RelativePath": "api/Categories",
@@ -125,6 +199,80 @@
     "ContainingType": "MovieSite.WebApi.Controllers.MoviesController",
     "Method": "GetMovieById",
     "RelativePath": "api/Movies/GetMovie",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSite.WebApi.Controllers.TagsController",
+    "Method": "TagsList",
+    "RelativePath": "api/Tags",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSite.WebApi.Controllers.TagsController",
+    "Method": "CreateTag",
+    "RelativePath": "api/Tags",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieSite.Application.Features.MediatorDesignPattern.Commands.TagCommand.CreateTagCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSite.WebApi.Controllers.TagsController",
+    "Method": "DeleteTag",
+    "RelativePath": "api/Tags",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSite.WebApi.Controllers.TagsController",
+    "Method": "UpdateTag",
+    "RelativePath": "api/Tags",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieSite.Application.Features.MediatorDesignPattern.Commands.TagCommand.UpdateTagCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSite.WebApi.Controllers.TagsController",
+    "Method": "GetTagById",
+    "RelativePath": "api/Tags/GetTagById",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

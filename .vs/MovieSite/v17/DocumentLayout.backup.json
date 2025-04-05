@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\presentation\\moviesite.webapi\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|solutionrelative:presentation\\moviesite.webapi\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\core\\moviesite.application\\features\\mediatordesignpattern\\handlers\\taghandlers\\createtagcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}|Core\\MovieSite.Application\\MovieSite.Application.csproj|solutionrelative:core\\moviesite.application\\features\\mediatordesignpattern\\handlers\\taghandlers\\createtagcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\presentation\\moviesite.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|solutionrelative:presentation\\moviesite.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\presentation\\moviesite.webapi\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|solutionrelative:presentation\\moviesite.webapi\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateTagCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Handlers\\TagHandlers\\CreateTagCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Handlers\\TagHandlers\\CreateTagCommandHandler.cs",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Handlers\\TagHandlers\\CreateTagCommandHandler.cs",
-              "RelativeToolTip": "Core\\MovieSite.Application\\Features\\MediatorDesignPattern\\Handlers\\TagHandlers\\CreateTagCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T18:44:12.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\MovieSite.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Program.cs",
-              "RelativeToolTip": "Presentation\\MovieSite.WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T18:34:53.943Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -69,14 +39,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\MovieSite.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Program.cs*",
+              "RelativeToolTip": "Presentation\\MovieSite.WebApi\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:51:23.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TagsController.cs",
               "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Controllers\\TagsController.cs",
               "RelativeDocumentMoniker": "Presentation\\MovieSite.WebApi\\Controllers\\TagsController.cs",
               "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Controllers\\TagsController.cs",
               "RelativeToolTip": "Presentation\\MovieSite.WebApi\\Controllers\\TagsController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T18:26:36.864Z",
+              "WhenOpened": "2025-04-05T18:51:22.574Z",
               "EditorCaption": ""
             }
           ]

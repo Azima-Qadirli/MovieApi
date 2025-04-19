@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovieSite.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfa01d40f41ac28c239218eb3d4c358988b45596")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e65b480254e8f4cabebad55d72fe004880371cf9")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovieSite.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovieSite.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

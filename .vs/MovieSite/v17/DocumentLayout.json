@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|solutionrelative:frontend\\moviesite.webui\\views\\userwebuilayout\\layoutui.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\frontend\\moviesite.webui\\views\\shared\\components\\_userlayoutwebuiregistermodalcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|solutionrelative:frontend\\moviesite.webui\\views\\shared\\components\\_userlayoutwebuiregistermodalcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\frontend\\moviesite.webui\\views\\shared\\components\\_userlayoutwebuinavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|solutionrelative:frontend\\moviesite.webui\\views\\shared\\components\\_userlayoutwebuinavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\frontend\\moviesite.webui\\viewcomponents\\userlayoutwebuiviewcomponents\\_userlayoutwebuiregistermodalcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|solutionrelative:frontend\\moviesite.webui\\viewcomponents\\userlayoutwebuiviewcomponents\\_userlayoutwebuiregistermodalcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\frontend\\moviesite.webui\\viewcomponents\\userlayoutwebuiviewcomponents\\_userlayoutwebuinavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|solutionrelative:frontend\\moviesite.webui\\viewcomponents\\userlayoutwebuiviewcomponents\\_userlayoutwebuinavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -44,13 +44,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_UserLayoutWebUIRegisterModalComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_UserLayoutWebUIRegisterModalComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_UserLayoutWebUIRegisterModalComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_UserLayoutWebUIRegisterModalComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_UserLayoutWebUINavbarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_UserLayoutWebUINavbarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_UserLayoutWebUINavbarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_UserLayoutWebUINavbarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADQAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T12:36:13.56Z",
+              "WhenOpened": "2025-04-19T12:51:51.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_UserLayoutWebUINavbarComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\ViewComponents\\UserLayoutWebUIViewComponents\\_UserLayoutWebUINavbarComponentPartial.cs",
+              "RelativeDocumentMoniker": "Frontend\\MovieSite.WebUI\\ViewComponents\\UserLayoutWebUIViewComponents\\_UserLayoutWebUINavbarComponentPartial.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\ViewComponents\\UserLayoutWebUIViewComponents\\_UserLayoutWebUINavbarComponentPartial.cs",
+              "RelativeToolTip": "Frontend\\MovieSite.WebUI\\ViewComponents\\UserLayoutWebUIViewComponents\\_UserLayoutWebUINavbarComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:50:12.027Z",
               "EditorCaption": ""
             },
             {
@@ -61,22 +74,9 @@
               "RelativeDocumentMoniker": "Frontend\\MovieSite.WebUI\\Views\\UserWebUILayout\\LayoutUI.cshtml",
               "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\UserWebUILayout\\LayoutUI.cshtml",
               "RelativeToolTip": "Frontend\\MovieSite.WebUI\\Views\\UserWebUILayout\\LayoutUI.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-19T11:32:42.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_UserLayoutWebUIRegisterModalComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\ViewComponents\\UserLayoutWebUIViewComponents\\_UserLayoutWebUIRegisterModalComponentPartial.cs",
-              "RelativeDocumentMoniker": "Frontend\\MovieSite.WebUI\\ViewComponents\\UserLayoutWebUIViewComponents\\_UserLayoutWebUIRegisterModalComponentPartial.cs",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\ViewComponents\\UserLayoutWebUIViewComponents\\_UserLayoutWebUIRegisterModalComponentPartial.cs",
-              "RelativeToolTip": "Frontend\\MovieSite.WebUI\\ViewComponents\\UserLayoutWebUIViewComponents\\_UserLayoutWebUIRegisterModalComponentPartial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T12:35:23.988Z",
               "EditorCaption": ""
             }
           ]

@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieSite.WebApi", "Present
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieSite.Application", "Core\MovieSite.Application\MovieSite.Application.csproj", "{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{64EC1FED-EED8-4905-9D6E-7C8D9613B98E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieSite.WebUI", "Frontend\MovieSite.WebUI\MovieSite.WebUI.csproj", "{62DF6413-6F33-4232-877F-224318A614DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,10 @@ Global
 		{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A4BBCC8-0EF1-4962-A553-C94DF4962C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62DF6413-6F33-4232-877F-224318A614DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DF6413-6F33-4232-877F-224318A614DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DF6413-6F33-4232-877F-224318A614DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DF6413-6F33-4232-877F-224318A614DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,5 +56,6 @@ Global
 		{59644946-1578-4A68-AC34-F88067861DE8} = {A11CD7AE-207F-4B5F-8EAD-307CC76CDD61}
 		{CF5FBF27-82CB-431E-BD30-57DC29E96DEC} = {3F859A1C-5BFF-4571-9728-14BAFADEBF68}
 		{5A4BBCC8-0EF1-4962-A553-C94DF4962C59} = {2A96B72F-2197-4550-83D6-24CEA4DCADEF}
+		{62DF6413-6F33-4232-877F-224318A614DE} = {64EC1FED-EED8-4905-9D6E-7C8D9613B98E}
 	EndGlobalSection
 EndGlobal

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\presentation\\moviesite.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|solutionrelative:presentation\\moviesite.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\frontend\\moviesite.webui\\views\\shared\\components\\_userlayoutwebuiheadcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|solutionrelative:frontend\\moviesite.webui\\views\\shared\\components\\_userlayoutwebuiheadcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\presentation\\moviesite.webapi\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF5FBF27-82CB-431E-BD30-57DC29E96DEC}|Presentation\\MovieSite.WebApi\\MovieSite.WebApi.csproj|solutionrelative:presentation\\moviesite.webapi\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\frontend\\moviesite.webui\\viewcomponents\\userlayoutwebuiviewcomponents\\_userlayoutwebuiheadcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|solutionrelative:frontend\\moviesite.webui\\viewcomponents\\userlayoutwebuiviewcomponents\\_userlayoutwebuiheadcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\frontend\\moviesite.webui\\controllers\\userwebuilayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|solutionrelative:frontend\\moviesite.webui\\controllers\\userwebuilayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\frontend\\moviesite.webui\\views\\userwebuilayout\\layoutui.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|solutionrelative:frontend\\moviesite.webui\\views\\userwebuilayout\\layoutui.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,27 +47,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\MovieSite.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Program.cs*",
-              "RelativeToolTip": "Presentation\\MovieSite.WebApi\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T18:51:23.812Z",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_UserLayoutWebUIHeadComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_UserLayoutWebUIHeadComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_UserLayoutWebUIHeadComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_UserLayoutWebUIHeadComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T11:58:17.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TagsController.cs",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Controllers\\TagsController.cs",
-              "RelativeDocumentMoniker": "Presentation\\MovieSite.WebApi\\Controllers\\TagsController.cs",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Presentation\\MovieSite.WebApi\\Controllers\\TagsController.cs",
-              "RelativeToolTip": "Presentation\\MovieSite.WebApi\\Controllers\\TagsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "_UserLayoutWebUIHeadComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\ViewComponents\\UserLayoutWebUIViewComponents\\_UserLayoutWebUIHeadComponentPartial.cs",
+              "RelativeDocumentMoniker": "Frontend\\MovieSite.WebUI\\ViewComponents\\UserLayoutWebUIViewComponents\\_UserLayoutWebUIHeadComponentPartial.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\ViewComponents\\UserLayoutWebUIViewComponents\\_UserLayoutWebUIHeadComponentPartial.cs",
+              "RelativeToolTip": "Frontend\\MovieSite.WebUI\\ViewComponents\\UserLayoutWebUIViewComponents\\_UserLayoutWebUIHeadComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T18:51:22.574Z",
+              "WhenOpened": "2025-04-19T11:53:52.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LayoutUI.cshtml",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\UserWebUILayout\\LayoutUI.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\MovieSite.WebUI\\Views\\UserWebUILayout\\LayoutUI.cshtml",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\UserWebUILayout\\LayoutUI.cshtml",
+              "RelativeToolTip": "Frontend\\MovieSite.WebUI\\Views\\UserWebUILayout\\LayoutUI.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T11:32:42.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserWebUILayoutController.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Controllers\\UserWebUILayoutController.cs",
+              "RelativeDocumentMoniker": "Frontend\\MovieSite.WebUI\\Controllers\\UserWebUILayoutController.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Controllers\\UserWebUILayoutController.cs",
+              "RelativeToolTip": "Frontend\\MovieSite.WebUI\\Controllers\\UserWebUILayoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:31:39.553Z",
               "EditorCaption": ""
             }
           ]

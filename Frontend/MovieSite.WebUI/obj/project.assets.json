@@ -2022,6 +2022,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "MovieSite.Dto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MovieSite.Dto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieSite.Dto.dll": {}
+        }
       }
     }
   },
@@ -5490,11 +5500,17 @@
         "system.threading.tasks.dataflow.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "MovieSite.Dto/1.0.0": {
+      "type": "project",
+      "path": "../MovieSite.Dto/MovieSite.Dto.csproj",
+      "msbuildProject": "../MovieSite.Dto/MovieSite.Dto.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 9.0.0"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 9.0.0",
+      "MovieSite.Dto >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5528,7 +5544,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.Dto\\MovieSite.Dto.csproj": {
+              "projectPath": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.Dto\\MovieSite.Dto.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

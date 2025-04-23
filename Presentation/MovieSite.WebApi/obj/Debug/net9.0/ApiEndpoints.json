@@ -149,6 +149,16 @@
   },
   {
     "ContainingType": "MovieSite.WebApi.Controllers.MoviesController",
+    "Method": "MovieList",
+    "RelativePath": "api/Movies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSite.WebApi.Controllers.MoviesController",
     "Method": "CreateMovie",
     "RelativePath": "api/Movies",
     "HttpMethod": "POST",

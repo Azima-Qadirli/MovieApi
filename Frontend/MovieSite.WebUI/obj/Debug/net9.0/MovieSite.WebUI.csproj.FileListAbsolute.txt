@@ -340,3 +340,5 @@ C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Frontend\MovieSite.WebUI\obj\D
 C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Frontend\MovieSite.WebUI\obj\Debug\net9.0\compressed\bf468l4849-atzkpo36rp.gz
 C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Frontend\MovieSite.WebUI\obj\Debug\net9.0\compressed\8eslu0o3cw-tudq297fbr.gz
 C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Frontend\MovieSite.WebUI\obj\Debug\net9.0\compressed\tedfk30aaz-3bzvxb94ae.gz
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Frontend\MovieSite.WebUI\bin\Debug\net9.0\MovieSite.Dto.dll
+C:\Users\test\OneDrive\Desktop\Projects\MovieSite\Frontend\MovieSite.WebUI\bin\Debug\net9.0\MovieSite.Dto.pdb

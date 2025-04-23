@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "Frontend\\MovieSite.WebUI\\Views\\Movie\\MovieList.cshtml",
               "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\Movie\\MovieList.cshtml",
               "RelativeToolTip": "Frontend\\MovieSite.WebUI\\Views\\Movie\\MovieList.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvyAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-23T19:43:13.53Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Core\\MovieSite.Domain\\Entities\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:40:12.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T19:40:12.531Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "Frontend\\MovieSite.Dto\\Dtos\\MovieDtos\\ResultMovieDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:40:02.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T19:40:02.257Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "Frontend\\MovieSite.WebUI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:23:34.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T19:23:34.787Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "Frontend\\MovieSite.WebUI\\Controllers\\MovieController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:12:39.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T19:12:39.719Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "Frontend\\MovieSite.WebUI\\wwwroot\\Film-Review-Movie-Database\\movielist.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-23T19:12:01.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T19:12:01.391Z"
             }
           ]
         }

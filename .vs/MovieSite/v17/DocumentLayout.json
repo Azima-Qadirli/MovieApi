@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\frontend\\moviesite.webui\\views\\movie\\moviedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|solutionrelative:frontend\\moviesite.webui\\views\\movie\\moviedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\frontend\\moviesite.webui\\views\\shared\\components\\_moviedetailsharesocialmediacomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|solutionrelative:frontend\\moviesite.webui\\views\\shared\\components\\_moviedetailsharesocialmediacomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\frontend\\moviesite.webui\\viewcomponents\\moviedetailviewcomponents\\_moviedetailsharesocialmediacomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|solutionrelative:frontend\\moviesite.webui\\viewcomponents\\moviedetailviewcomponents\\_moviedetailsharesocialmediacomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,47 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_MovieDetailShareSocialMediaComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_MovieDetailShareSocialMediaComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_MovieDetailShareSocialMediaComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_MovieDetailShareSocialMediaComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-29T20:51:17.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MovieDetail.cshtml",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\Movie\\MovieDetail.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\MovieSite.WebUI\\Views\\Movie\\MovieDetail.cshtml",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\Movie\\MovieDetail.cshtml",
-              "RelativeToolTip": "Frontend\\MovieSite.WebUI\\Views\\Movie\\MovieDetail.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-29T20:19:08.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_MovieDetailShareSocialMediaComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\ViewComponents\\MovieDetailViewComponents\\_MovieDetailShareSocialMediaComponentPartial.cs",
-              "RelativeDocumentMoniker": "Frontend\\MovieSite.WebUI\\ViewComponents\\MovieDetailViewComponents\\_MovieDetailShareSocialMediaComponentPartial.cs",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\ViewComponents\\MovieDetailViewComponents\\_MovieDetailShareSocialMediaComponentPartial.cs",
-              "RelativeToolTip": "Frontend\\MovieSite.WebUI\\ViewComponents\\MovieDetailViewComponents\\_MovieDetailShareSocialMediaComponentPartial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T20:49:48.289Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"

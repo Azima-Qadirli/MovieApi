@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\frontend\\moviesite.webui\\views\\shared\\components\\_moviedetailrelatedmoviescomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|solutionrelative:frontend\\moviesite.webui\\views\\shared\\components\\_moviedetailrelatedmoviescomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\frontend\\moviesite.webui\\viewcomponents\\moviedetailviewcomponents\\_moviedetailrelatedmoviescomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|solutionrelative:frontend\\moviesite.webui\\viewcomponents\\moviedetailviewcomponents\\_moviedetailrelatedmoviescomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|c:\\users\\test\\onedrive\\desktop\\projects\\moviesite\\frontend\\moviesite.webui\\views\\movie\\moviedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{62DF6413-6F33-4232-877F-224318A614DE}|Frontend\\MovieSite.WebUI\\MovieSite.WebUI.csproj|solutionrelative:frontend\\moviesite.webui\\views\\movie\\moviedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -39,12 +47,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_MovieDetailRelatedMoviesComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_MovieDetailRelatedMoviesComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_MovieDetailRelatedMoviesComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontend\\MovieSite.WebUI\\Views\\Shared\\Components\\_MovieDetailRelatedMoviesComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T18:54:29.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_MovieDetailRelatedMoviesComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\ViewComponents\\MovieDetailViewComponents\\_MovieDetailRelatedMoviesComponentPartial.cs",
+              "RelativeDocumentMoniker": "Frontend\\MovieSite.WebUI\\ViewComponents\\MovieDetailViewComponents\\_MovieDetailRelatedMoviesComponentPartial.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\ViewComponents\\MovieDetailViewComponents\\_MovieDetailRelatedMoviesComponentPartial.cs",
+              "RelativeToolTip": "Frontend\\MovieSite.WebUI\\ViewComponents\\MovieDetailViewComponents\\_MovieDetailRelatedMoviesComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:51:56.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MovieDetail.cshtml",
               "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\Movie\\MovieDetail.cshtml",
               "RelativeDocumentMoniker": "Frontend\\MovieSite.WebUI\\Views\\Movie\\MovieDetail.cshtml",
               "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Projects\\MovieSite\\Frontend\\MovieSite.WebUI\\Views\\Movie\\MovieDetail.cshtml",
               "RelativeToolTip": "Frontend\\MovieSite.WebUI\\Views\\Movie\\MovieDetail.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-11T18:43:30.832Z",
               "EditorCaption": ""
